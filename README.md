@@ -1,3 +1,3 @@
 Simple FAQ page code
 
-![demo ](readme_res\demo.png)
+![demo](./readme_res/demo.png)
